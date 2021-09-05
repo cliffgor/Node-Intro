@@ -5,6 +5,5 @@
   - Why and when to use Node Js?
       
       | Pros| Description |
-| ----------- | ----------- |
-| Single Threaded | Title |
-| Paragraph | Text |
+      | Pros| Description |
+      | Pros| Description |
